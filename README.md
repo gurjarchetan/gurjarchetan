@@ -74,9 +74,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gurjarchetan&theme=github-dark&hide_border=true" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=gurjarchetan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjarchetan&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurjarchetan&theme=github_dark" height="150" />
 </p>
 
 ---
