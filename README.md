@@ -68,7 +68,6 @@
 | [**omniagent**](https://github.com/gurjarchetan/omniagent) | Ultra-lightweight Linux observability daemon — host metrics, Docker, and log collection in a ~104KB binary |
 | [**syswatch**](https://github.com/gurjarchetan/syswatch) | High-performance Linux system monitor TUI in Rust — Braille sparklines, near-zero footprint |
 | [**mongodb-exporter**](https://github.com/gurjarchetan/mongodb-exporter) | Production-grade Prometheus exporter for MongoDB with 60+ metrics and a full Grafana dashboard |
-| [**ansible**](https://github.com/gurjarchetan/ansible) | Infrastructure automation playbooks — idempotent, SSH-based, no agents |
 
 ---
 
