@@ -71,16 +71,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gurjarchetan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="150" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gurjarchetan&theme=github_dark" height="150" />
-</p>
-
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/chetangurjar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
